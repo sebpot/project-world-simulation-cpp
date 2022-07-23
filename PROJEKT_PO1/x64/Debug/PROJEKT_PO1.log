@@ -1,0 +1,4 @@
+﻿  World.cpp
+C:\Users\Seba\source\repos\PROJEKT_PO1\PROJEKT_PO1\World.cpp(105,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Seba\source\repos\PROJEKT_PO1\PROJEKT_PO1\World.cpp(109,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  PROJEKT_PO1.vcxproj -> C:\Users\Seba\source\repos\PROJEKT_PO1\x64\Debug\PROJEKT_PO1.exe
